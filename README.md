@@ -14,3 +14,8 @@ ILI
 
 novine_tablice.sql - potrebno je ručno napraviti bazu 'novine' pa u njoj pokrenuti skriptu da se naprave i popune tablice
 ```
+4. Login za admin korisnika je:
+```text
+Korisničko ime: sloncaric
+Lozinka: 12345
+```
